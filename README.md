@@ -34,6 +34,7 @@ TL;DR
  <li>Liability</li>
  <li>Warranty</li>
 </ul>
+<br>
 Have Fun!
-
+<br>
 <h6> legalize awoo. </h6>
