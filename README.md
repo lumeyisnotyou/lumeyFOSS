@@ -15,20 +15,25 @@ These are what load the products, don't forget to remove the licensing! (i'm laz
 <p>We've chosen the GNU GPL v3.0 License, you can learn more about it <a href="https://choosealicense.com/licenses/gpl-3.0/">here</a></p>
 TL;DR
 <h3> Permissions </h3>
-Commercial use
- Distribution
- Modification
- Patent use
- Private use
+<ul>
+ <li>Commercial use</li>
+ <li>Distribution</li>
+ <li>Modification</li>
+ <li>Patent use</li>
+ <li>Private use</li>
+</ul>
  <h3> Conditions </h3>
- Disclose source
- License and copyright notice
- Same license
- State changes
+<ul>
+ <li>Disclose source</li>
+ <li> License and copyright notice</li>
+ <li>Same license</li>
+ <li> State changes</li>
+</ul>
 <h3> Limitations </h3
-  Liability
-  Warranty
-
+<ul>  
+ <li>Liability</li>
+ <li>Warranty</li>
+</ul>
 Have Fun!
 
 <h6> legalize awoo. </h6>
