@@ -1,5 +1,6 @@
 # lumeyFOSS
 well here we are
+<div>
 <h1> Files </h1>
 All the .RBXM files are completed products which will go nicely with your updated
 <h3>Not easy to understand file names:</h3>
@@ -13,6 +14,8 @@ All the .RBXM files are completed products which will go nicely with your update
 </ul>
 <h4>SFTY?</h4>
 SFTY is named RUBEUS_SFTY because it was an unlicensed edition for rubeus, i'm no longer in rubeus and have total control over the product. enjoy!
+</div>
+<div>
 <h1> Modules </h1>
 These are what load the products, don't forget to remove the licensing! (i'm lazy ok)
 <ul>
@@ -23,6 +26,8 @@ These are what load the products, don't forget to remove the licensing! (i'm laz
 <li><b>flip:</b> https://www.roblox.com/catalog/3175412047/pancake-eat-bear</li>
 <li><b>lumeyIN:</b> https://www.roblox.com/catalog/3452785633/goInside</li>
 </ul>
+</div>
+<div>
 <h1>Licensing</h1>
 <p>We've chosen the GNU GPL v3.0 License, you can learn more about it <a href="https://choosealicense.com/licenses/gpl-3.0/">here</a></p>
 TL;DR
@@ -46,6 +51,7 @@ TL;DR
  <li>Liability</li>
  <li>Warranty</li>
 </ul>
+</div>
 <br>
 Have Fun!
 <br>
