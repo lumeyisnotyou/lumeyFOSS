@@ -25,9 +25,9 @@ TL;DR
  <h3> Conditions </h3>
 <ul>
  <li>Disclose source</li>
- <li> License and copyright notice</li>
+ <li>License and copyright notice</li>
  <li>Same license</li>
- <li> State changes</li>
+ <li>State changes</li>
 </ul>
 <h3> Limitations </h3
 <ul>  
