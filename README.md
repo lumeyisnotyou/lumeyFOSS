@@ -13,7 +13,7 @@ All the .RBXM files are completed products which will go nicely with your update
 </ul>
 <h4>SFTY?</h4>
 SFTY is named RUBEUS_SFTY because it was an unlicensed edition for rubeus, i'm no longer in rubeus and have total control over the product. enjoy!
-<h2> Modules </h2>
+<h1> Modules </h1>
 These are what load the products, don't forget to remove the licensing! (i'm lazy ok)
 <ul>
 <li><b>quick:</b> https://www.roblox.com/catalog/4614095748/quickMod</li>
