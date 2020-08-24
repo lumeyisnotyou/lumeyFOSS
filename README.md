@@ -10,7 +10,7 @@ All the .RBXM files are completed products which will go nicely with your update
  <li>SKĀN.rbxm - new version of lumeyEnter, very fancy though</li>
  <li>dropped like linus tek tips.rbxm - DRP, fully unlicensed, also it's for travelamerica so a little older then the module</li>
  <li>dwink owo uwu!!11!.rbxm - this one was what made me a furry. drink dispenser, rubeus had this</li
-
+ <li>LSD (lumeysecretdevelopment) - this was a place for developing stuff. it has unobfuscated scripts for quick because i forgot to upload the fully open source quick module (sorry)</li>
 </ul>
 <h4>SFTY?</h4>
 SFTY is named RUBEUS_SFTY because it was an unlicensed edition for rubeus, i'm no longer in rubeus and have total control over the product. enjoy!
